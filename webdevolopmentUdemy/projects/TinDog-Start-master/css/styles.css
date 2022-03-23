@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,800;1,100;1,700&family=Sacramento&family=Ubuntu:wght@300;400&display=swap');
+
+h1{
+    font-family:"Poppins";
+    font-weight :900;
+    font-size: 3 rem;
+    max-height: 1.5;
+}
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    margin: 3% 15%;
+}
